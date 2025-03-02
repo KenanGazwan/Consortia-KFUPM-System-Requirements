@@ -1,6 +1,6 @@
 # 🏛️ Consortia KFUPM System Requirements  
 
-📌 **Repository:** [Consortia KFUPM System Requirements](https://github.com/KenanGazwan/Consortia-KFUPM-System-Requirements/tree/main)  
+📌 **Repository:** [Consortia KFUPM System Requirements](https://github.com/KenanKaddoura/Consortia-KFUPM-System-Requirements/tree/main)  
 
 ## 📖 Overview  
 This repository contains the **system requirements documentation** for the **Consortia KFUPM System**, developed as part of the **Requirements Engineering** course. The project focuses on gathering, analyzing, and documenting requirements based on stakeholder interviews, ensuring a structured approach to system development.  
