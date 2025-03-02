@@ -20,7 +20,7 @@ This document is prepared as part of deliverable 2 for the Consortia Management 
 
 ## 2. Domain description (UML Class Diagram)
 
-![UML Diagrams](###)
+![UML Diagrams](https://github.com/KenanGazwan/Consortia-KFUPM-System-Requirements/tree/main/UML%20Diagrams)
 
 ## 3. Initial description of the problem
 
