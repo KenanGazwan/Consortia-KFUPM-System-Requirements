@@ -166,7 +166,7 @@ Red indicates full-assumption
 
 ### 3.4 Preliminary Requirements
 
-[2nd Phase - Preliminary Requirements](###)
+[3rd Phase - Preliminary Requirements](https://github.com/KenanGazwan/Consortia-KFUPM-System-Requirements/blob/main/Requirements/Requirement-List-v3/Requirement-List-v3.md)
 
 ### 3.5 Risks
 
