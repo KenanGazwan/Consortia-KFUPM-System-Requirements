@@ -20,7 +20,7 @@ This document is prepared as part of deliverable 2 for the Consortia Management 
 
 ## 2. Domain description (UML Class Diagram)
 
-![UML Diagrams](https://github.com/KenanGazwan/Consortia-KFUPM-System-Requirements/tree/main/UML%20Diagrams)
+![UML Diagrams](https://github.com/KenanKaddoura/Consortia-KFUPM-System-Requirements/tree/main/UML%20Diagrams)
 
 ## 3. Initial description of the problem
 
@@ -166,7 +166,7 @@ Red indicates full-assumption
 
 ### 3.4 Preliminary Requirements
 
-[3rd Phase - Preliminary Requirements](https://github.com/KenanGazwan/Consortia-KFUPM-System-Requirements/blob/main/Requirements/Requirement-List-v3/Requirement-List-v3.md)
+[3rd Phase - Preliminary Requirements](https://github.com/KenanKaddoura/Consortia-KFUPM-System-Requirements/blob/main/Requirements/Requirement-List-v3/Requirement-List-v3.md)
 
 ### 3.5 Risks
 
